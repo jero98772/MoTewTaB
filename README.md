@@ -12,4 +12,4 @@ Download repo
 
 
 ### Screenshots
-![1](https://github.com/jero98772/B-MoTewTaB/blob/main/misc/Screenshots/1.png)
+![1](https://raw.githubusercontent.com/jero98772/MoTewTaB/main/misc/Screenshots/1.png)
